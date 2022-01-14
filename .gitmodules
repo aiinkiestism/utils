@@ -1,0 +1,3 @@
+[submodule "shell-utils"]
+	path = shell-utils
+	url = https://github.com/aiinkiestism/shell-utils
